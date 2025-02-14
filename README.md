@@ -34,7 +34,7 @@ A modern C# Windows Forms implementation of the classic Flappy Bird game, featur
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone [repository-url]
 ```
 
 2. Navigate to the project directory
